@@ -8,7 +8,11 @@ Here in this project I have analysed the huge dataset of Terrorism where all the
 
 ● What all security issues and insights you can derive by EDA?
 
-![Dashboard_SS](https://github.com/shruputta/Exploratory-Data-Analysis-Terrorism/assets/21563334/0de25201-c4a4-48c1-bfda-f1acc31930f2)
 
+
+
+
+
+![Dashboard_SS](https://github.com/shruputta/Exploratory-Data-Analysis-Terrorism/assets/21563334/7a5711ff-c4fd-49a8-89bf-3aeed488b82f)
 
 
